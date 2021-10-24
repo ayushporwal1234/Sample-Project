@@ -1,0 +1,27 @@
+
+#myVideo{
+    width: 100%;
+    animation-play-state: running;
+}
+
+.centered-heading{
+    position: absolute;
+    font-weight:lighter;
+    top: 57%;
+    left: 46%;
+    color:yellow;
+    font-size: 2.5em;
+}
+.centered{
+    position: absolute;
+    font-weight:bold;
+    top: 68%;
+    left: 30%;
+    color:green;
+    font-size:2em;
+}
+#continue{
+    position: absolute;
+     top: 80%;
+    left: 47%;
+}
